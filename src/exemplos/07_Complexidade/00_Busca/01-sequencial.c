@@ -7,7 +7,7 @@
 #include <stdio.h>
 
 #include "apc_busca.h"
-#include "../../5_EstruturasDeDados/4_Vetor/apc_vetor.h"
+#include "../../05_EstruturasDeDados/04_Vetor/apc_vetor.h"
 
 int main() {
     int vetor[] = {1,2,2,3,5,7,8,9,9,10};
